@@ -12,16 +12,11 @@ header {
 }
 
 main {
-  height: 420px;
+  height: 430px;
   background-color: #f5f7ff;
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-#picQ2 {
-    width: 106px;
-    height: 220px;
 }
 
 #time {
@@ -35,7 +30,8 @@ main {
   align-items: end;
 }
 
-#pic {
+#line {
+
   display: flex;
   justify-content: end;
   align-items: flex-end;
